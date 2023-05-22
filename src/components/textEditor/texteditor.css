@@ -1,0 +1,15 @@
+.toolbar{
+background-color: aquamarine;
+}
+.toolbar-class{
+    background-color: #edf2fa;
+    border-radius: 24px;
+ 
+    width :1200px;
+
+}
+@media (min-width:300px) and (max-width:767px){
+    .toolbar-class{  
+        width :300px;  
+    }
+}

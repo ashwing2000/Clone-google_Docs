@@ -1,0 +1,28 @@
+@tailwind components;
+
+@layer components{
+    .option{
+     @apply cursor-pointer hover:bg-gray-100 p-2 transition duration-200 ease-out p-2 rounded-lg ;
+     }
+}
+.google-docs-logo{
+    height: 20px;
+   
+}
+.google-docs{
+    width: 50px;
+
+}
+.share-btn{
+    border-radius: 35px;
+    background-color: #c2e7ff;
+    color:#001d35 !important;
+    font-size: 18px;
+    text-transform: lowercase;
+
+}
+.share-btn i{
+    padding-right:5px;
+    color:#001d35;
+
+}
