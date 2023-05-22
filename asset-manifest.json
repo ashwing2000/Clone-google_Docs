@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Clone-google_Docs/static/css/main.56625647.css",
+    "main.js": "/Clone-google_Docs/static/js/main.b80a0879.js",
+    "index.html": "/Clone-google_Docs/index.html",
+    "main.56625647.css.map": "/Clone-google_Docs/static/css/main.56625647.css.map",
+    "main.b80a0879.js.map": "/Clone-google_Docs/static/js/main.b80a0879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56625647.css",
+    "static/js/main.b80a0879.js"
+  ]
+}
