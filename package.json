@@ -1,6 +1,6 @@
 {
   "name": "my-project",
-  "homepage": "https://github-ashwing2000.github.io/google-docs-clone",
+  "homepage": "https://github-ashwing2000.github.io/Clone-google_Docs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -42,7 +42,7 @@
     ]
   },
   "devDependencies": {
- 
+    "gh-pages": "^5.0.0",
     "tailwindcss": "^3.3.2"
   }
 }
